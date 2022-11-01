@@ -8,7 +8,7 @@
 - Dynamic Navigation Bar 
 - View List of Employees with pagination
 - See details/modify/delete employee
-- Any Loggined user can Leave comments on employees
+- Any Loggined user can Leave comments on employee detail page
 - Bulk Import employees through a CSV file
 
 
